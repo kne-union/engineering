@@ -5,7 +5,7 @@ action任务完成对应操作。
 
 1. 你需要将需要修改的kne-union中的项目fork到你自己的repositories中
 2. 创建你自己名字和修改功能名称(也可以没有)的分支
-3. 完成并提交代码修改，执行rebase最新的origin/master
+3. 完成并提交代码修改，执行rebase最新的origin/release
 4. 使用force push推送到github远程分支
 5. 发起create pull request 合并到kne-union对应项目的release分支上
 6. kne-union管理员会在审核你提交的代码，进行必要的测试后执行合并操作
